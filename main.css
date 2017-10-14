@@ -1,0 +1,39 @@
+.navbar{
+    padding:20px;
+}
+
+.navbar-brand{
+    font-size:50px;
+}
+
+#logo1{
+    opacity: 1;
+    color: peachpuff;
+}
+
+.form-control{
+    width:100px;
+    size:40px;
+    margin:10px;
+}
+
+.navbar{
+    background-color:mediumpurple;
+    margin:0px;
+}
+
+body{
+    background-color:rebeccapurple;
+}
+
+.wrapper {
+    padding: 4% 4%;
+    background: #e4e5d9;
+    border: solid 2rem #fff;
+}
+.audiocontent {
+    width: 80%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
